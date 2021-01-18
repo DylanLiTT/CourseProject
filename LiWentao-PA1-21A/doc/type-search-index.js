@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"main","l":"DoubleLinkedList"},{"p":"main","l":"MBTA"},{"p":"main","l":"Node"},{"p":"main","l":"Queue"},{"p":"main","l":"Railway"},{"p":"main","l":"Rider"},{"p":"main","l":"Station"},{"p":"main","l":"Train"}]

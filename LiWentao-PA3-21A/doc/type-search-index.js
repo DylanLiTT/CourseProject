@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"main","l":"Email"},{"p":"test","l":"EmailFileReader"},{"p":"main","l":"Entry"},{"p":"main","l":"HashTable"},{"p":"main","l":"PriorityQueue"},{"p":"main","l":"SpamFilter"},{"p":"main","l":"test"}]
